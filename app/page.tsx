@@ -34,7 +34,7 @@ export default function Home() {
         </span>
       </div> */}
 
-      {/* User */}
+      {/* User */}. 
       <div className="flex items-center gap-3 border-l border-slate-700 pl-6">
         <div className="w-10 h-10 rounded-full bg-indigo-600 flex items-center justify-center font-bold">
           C
@@ -68,7 +68,7 @@ export default function Home() {
 
 
   <button
-    className="mb-10 group relative overflow-hidden bg-yellow-600/80 rounded-xl lg:rounded-full elevation-40 text-white h-40 w-full max-w-sm font-bold shadow-2xl hover:shadow-orange-500/40 hover:scale-105 transition-all duration-300">
+    className="mb-10 group relative overflow-hidden bg-yellow-600/79 rounded-xl lg:rounded-full elevation-40 text-white h-40 w-full max-w-sm font-bold shadow-2xl hover:shadow-orange-500/40 hover:scale-105 transition-all duration-300">
     <div className="absolute inset-0 bg-white/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
     <div className="relative flex flex-col items-center justify-center h-full gap-2">
       <div className="text-4xl">🎲</div>
