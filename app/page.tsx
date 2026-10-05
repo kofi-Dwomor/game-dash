@@ -26,7 +26,13 @@ export default function Home() {
 
       
 
-      
+      {/* Status
+      <div className="flex items-center gap-2 bg-green-700/0 border border-indigo-700 px-4 py-0.5 rounded-full">
+        <span className="w-2.5 h-2.5 bg-indigo-600 rounded-full animate-pulse"></span>
+        <span className="text-sm text-indigo-700">
+          Live Games Testing
+        </span>
+      </div> */}
 
       {/* User */}
       <div className="flex items-center gap-3 border-l border-slate-700 pl-6">
